@@ -1,4 +1,4 @@
-### Hi there 👋
+### A mobile developer 📱🇮🇩🛰️
 
 <!--
 **bimoajif/bimoajif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
