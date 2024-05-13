@@ -1,0 +1,54 @@
+{
+  "workbench.iconTheme": "vscode-great-icons",
+
+  "workbench.colorCustomizations": {
+    //editor
+    "editor.background": "#1719194d",
+    "editorGroupHeader.tabsBackground": "#17191900",
+    // "editor.lineHighlightBackground": "#27292b",
+    // "editor.selectionBackground": "#474343",
+    // "editorBracketMatch.border": "#47434300",
+    // "editorBracketMatch.background": "#5c5858",
+    //tab bar
+    "tab.inactiveBackground": "#17191900",
+    "tab.activeBackground": "#1719195a",
+    "tab.activeBorder": "#1e2125",
+    "tab.border": "#17191900",
+    "tab.activeBorderTop": "#1e2125",
+    "breadcrumb.background": "#1719192f",
+    //side bar
+    "sideBarSectionHeader.background": "#17191900",
+    "sideBar.background": "#171919",
+    "sideBar.border": "#17191900",
+    //minimap
+    "minimap.background": "#1b1f1fb0",
+    "minimap.selectionHighlight": "#5c646e00",
+    //notification bar
+    "notifications.background": "#1e2125e0",
+    //activity bar
+    "activityBar.background": "#171919",
+    "activityBar.border": "#17191900",
+    "activityBar.activeBorder": "#ffffff",
+    //title bar
+    "titleBar.activeBackground": "#171919",
+    "titleBar.border": "#17191900",
+    //status bar
+    "statusBar.background": "#171919f0",
+    "statusBar.border": "#17191900",
+    "statusBar.debuggingBackground": "#171919f0",
+    //quick inout
+    "quickInput.background": "#171919",
+    "input.background": "#1e212598",
+    //debug
+    "debugToolBar.background": "#171919f3",
+    //terminal
+    "terminal.background": "#171919f3",
+    "panel.background": "#171919f3"
+  },
+  "editor.fontFamily": "JetBrains Mono, 'Courier New', monospace",
+  "editor.formatOnSave": true,
+  "editor.fontSize": 13,
+  "svg.preview.mode": "svg",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.colorTheme": "One Dark Pro Darker"
+}
